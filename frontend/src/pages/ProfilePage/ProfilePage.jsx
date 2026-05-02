@@ -323,6 +323,7 @@ function CitySelect({ value, onChange }) {
 }
 
 export default function ProfilePage() {
+  const dispatch = useDispatch();
   const [params]  = useSearchParams();
   const activeTab = params.get('tab') || 'profile';
 
@@ -701,7 +702,6 @@ function OrderStatusStepper({ status }) {
 
 /* Change Password sub-component */
 function ChangePasswordForm() {
-  const dispatch = useDispatch();
   const [form, setForm]   = useState({ currentPassword:'', newPassword:'', confirmNew:'' });
   const [saving, setSaving] = useState(false);
   const [errors, setErrors] = useState({});
