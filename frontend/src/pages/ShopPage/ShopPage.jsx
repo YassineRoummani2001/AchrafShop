@@ -20,7 +20,7 @@ export default function ShopPage() {
   const dispatch   = useDispatch();
   const navigate   = useNavigate();
   const { search } = useLocation();
-  const { products, categories, pagination, loading, filters } = useSelector((s) => s.products);
+  const { products, pagination, loading, filters } = useSelector((s) => s.products);
   const [sidebarOpen, setSidebarOpen] = useState(false);
   const [localFilters, setLocalFilters] = useState({ ...filters });
   const [searchInput, setSearchInput] = useState('');

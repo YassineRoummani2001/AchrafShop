@@ -5,8 +5,7 @@ import {
   fetchAdminProducts, createAdminProduct,
   updateAdminProduct, deleteAdminProduct,
 } from '../../store/slices/adminSlice';
-import { FiPackage, FiPlus, FiEdit2, FiTrash2, FiSearch, FiX, FiImage, FiUploadCloud } from 'react-icons/fi';
-import api from '../../utils/api';
+import { FiPackage, FiPlus, FiEdit2, FiTrash2, FiSearch, FiX, FiUploadCloud } from 'react-icons/fi';
 import { toast } from 'react-toastify';
 import '../../components/AdminLayout/AdminLayout.css';
 

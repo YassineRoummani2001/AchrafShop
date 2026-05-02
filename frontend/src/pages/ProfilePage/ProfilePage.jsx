@@ -323,7 +323,6 @@ function CitySelect({ value, onChange }) {
 }
 
 export default function ProfilePage() {
-  const dispatch = useDispatch();
   const [params]  = useSearchParams();
   const activeTab = params.get('tab') || 'profile';
 
