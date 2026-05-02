@@ -67,7 +67,7 @@ function MiniStepper({ status }) {
    ════════════════════════════════════════════════════════════════════ */
 export default function AdminOrders() {
   const dispatch = useDispatch();
-  const { orders, loading, actionLoading } = useSelector((s) => s.admin);
+  const { orders, loading } = useSelector((s) => s.admin);
   const [search,       setSearch]       = useState('');
   const [statusFilter, setStatusFilter] = useState('');
   const [updating,     setUpdating]     = useState(null);

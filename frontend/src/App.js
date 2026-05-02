@@ -31,7 +31,6 @@ import AdminUsers     from './pages/Admin/AdminUsers';
 import AdminBrands    from './pages/Admin/AdminBrands';
 import AdminHero      from './pages/Admin/AdminHero';
 import AdminThemes    from './pages/Admin/AdminThemes';
-import AdminStock     from './pages/Admin/AdminStock';
 
 import './App.css';
 
