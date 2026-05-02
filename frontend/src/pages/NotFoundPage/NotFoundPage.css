@@ -1,0 +1,5 @@
+.not-found-page { min-height: 70vh; display: flex; align-items: center; justify-content: center; text-align: center; padding: 3rem 1rem; }
+.not-found-number { font-size: clamp(5rem, 15vw, 10rem); font-weight: 900; color: var(--accent); line-height: 1; margin-bottom: 0; opacity: 0.6; }
+.not-found-title { font-size: 2rem; margin-bottom: 0.75rem; }
+.not-found-sub { color: var(--text-muted); margin-bottom: 2rem; }
+.not-found-actions { display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; }

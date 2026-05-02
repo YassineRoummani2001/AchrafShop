@@ -1,0 +1,90 @@
+2026-05-02T16:11:43.971Z - Only image files (jpeg, jpg, png, gif, webp) are allowed
+Error: Only image files (jpeg, jpg, png, gif, webp) are allowed
+    at fileFilter (D:\MyWorkplace\Projects\Projects_ReactJS\AchrafShop\backend\middleware\upload.js:23:8)
+    at wrappedFileFilter (D:\MyWorkplace\Projects\Projects_ReactJS\AchrafShop\backend\node_modules\multer\index.js:44:7)
+    at Multipart.<anonymous> (D:\MyWorkplace\Projects\Projects_ReactJS\AchrafShop\backend\node_modules\multer\lib\make-middleware.js:109:7)
+    at Multipart.emit (node:events:518:28)
+    at HeaderParser.cb (D:\MyWorkplace\Projects\Projects_ReactJS\AchrafShop\backend\node_modules\busboy\lib\types\multipart.js:358:14)
+    at HeaderParser.push (D:\MyWorkplace\Projects\Projects_ReactJS\AchrafShop\backend\node_modules\busboy\lib\types\multipart.js:162:20)
+    at SBMH.ssCb [as _cb] (D:\MyWorkplace\Projects\Projects_ReactJS\AchrafShop\backend\node_modules\busboy\lib\types\multipart.js:394:37)
+    at feed (D:\MyWorkplace\Projects\Projects_ReactJS\AchrafShop\backend\node_modules\streamsearch\lib\sbmh.js:219:14)
+    at SBMH.push (D:\MyWorkplace\Projects\Projects_ReactJS\AchrafShop\backend\node_modules\streamsearch\lib\sbmh.js:104:16)
+    at Multipart._write (D:\MyWorkplace\Projects\Projects_ReactJS\AchrafShop\backend\node_modules\busboy\lib\types\multipart.js:567:19)
+
+2026-05-02T16:12:04.995Z - Only image files (jpeg, jpg, png, gif, webp) are allowed
+Error: Only image files (jpeg, jpg, png, gif, webp) are allowed
+    at fileFilter (D:\MyWorkplace\Projects\Projects_ReactJS\AchrafShop\backend\middleware\upload.js:23:8)
+    at wrappedFileFilter (D:\MyWorkplace\Projects\Projects_ReactJS\AchrafShop\backend\node_modules\multer\index.js:44:7)
+    at Multipart.<anonymous> (D:\MyWorkplace\Projects\Projects_ReactJS\AchrafShop\backend\node_modules\multer\lib\make-middleware.js:109:7)
+    at Multipart.emit (node:events:518:28)
+    at HeaderParser.cb (D:\MyWorkplace\Projects\Projects_ReactJS\AchrafShop\backend\node_modules\busboy\lib\types\multipart.js:358:14)
+    at HeaderParser.push (D:\MyWorkplace\Projects\Projects_ReactJS\AchrafShop\backend\node_modules\busboy\lib\types\multipart.js:162:20)
+    at SBMH.ssCb [as _cb] (D:\MyWorkplace\Projects\Projects_ReactJS\AchrafShop\backend\node_modules\busboy\lib\types\multipart.js:394:37)
+    at feed (D:\MyWorkplace\Projects\Projects_ReactJS\AchrafShop\backend\node_modules\streamsearch\lib\sbmh.js:219:14)
+    at SBMH.push (D:\MyWorkplace\Projects\Projects_ReactJS\AchrafShop\backend\node_modules\streamsearch\lib\sbmh.js:104:16)
+    at Multipart._write (D:\MyWorkplace\Projects\Projects_ReactJS\AchrafShop\backend\node_modules\busboy\lib\types\multipart.js:567:19)
+
+2026-05-02T16:36:52.062Z - Only image files (jpeg, jpg, png, gif, webp) are allowed
+Error: Only image files (jpeg, jpg, png, gif, webp) are allowed
+    at fileFilter (D:\MyWorkplace\Projects\Projects_ReactJS\AchrafShop\backend\middleware\upload.js:23:8)
+    at wrappedFileFilter (D:\MyWorkplace\Projects\Projects_ReactJS\AchrafShop\backend\node_modules\multer\index.js:44:7)
+    at Multipart.<anonymous> (D:\MyWorkplace\Projects\Projects_ReactJS\AchrafShop\backend\node_modules\multer\lib\make-middleware.js:109:7)
+    at Multipart.emit (node:events:518:28)
+    at HeaderParser.cb (D:\MyWorkplace\Projects\Projects_ReactJS\AchrafShop\backend\node_modules\busboy\lib\types\multipart.js:358:14)
+    at HeaderParser.push (D:\MyWorkplace\Projects\Projects_ReactJS\AchrafShop\backend\node_modules\busboy\lib\types\multipart.js:162:20)
+    at SBMH.ssCb [as _cb] (D:\MyWorkplace\Projects\Projects_ReactJS\AchrafShop\backend\node_modules\busboy\lib\types\multipart.js:394:37)
+    at feed (D:\MyWorkplace\Projects\Projects_ReactJS\AchrafShop\backend\node_modules\streamsearch\lib\sbmh.js:219:14)
+    at SBMH.push (D:\MyWorkplace\Projects\Projects_ReactJS\AchrafShop\backend\node_modules\streamsearch\lib\sbmh.js:104:16)
+    at Multipart._write (D:\MyWorkplace\Projects\Projects_ReactJS\AchrafShop\backend\node_modules\busboy\lib\types\multipart.js:567:19)
+
+2026-05-02T16:37:03.537Z - Only image files (jpeg, jpg, png, gif, webp) are allowed
+Error: Only image files (jpeg, jpg, png, gif, webp) are allowed
+    at fileFilter (D:\MyWorkplace\Projects\Projects_ReactJS\AchrafShop\backend\middleware\upload.js:23:8)
+    at wrappedFileFilter (D:\MyWorkplace\Projects\Projects_ReactJS\AchrafShop\backend\node_modules\multer\index.js:44:7)
+    at Multipart.<anonymous> (D:\MyWorkplace\Projects\Projects_ReactJS\AchrafShop\backend\node_modules\multer\lib\make-middleware.js:109:7)
+    at Multipart.emit (node:events:518:28)
+    at HeaderParser.cb (D:\MyWorkplace\Projects\Projects_ReactJS\AchrafShop\backend\node_modules\busboy\lib\types\multipart.js:358:14)
+    at HeaderParser.push (D:\MyWorkplace\Projects\Projects_ReactJS\AchrafShop\backend\node_modules\busboy\lib\types\multipart.js:162:20)
+    at SBMH.ssCb [as _cb] (D:\MyWorkplace\Projects\Projects_ReactJS\AchrafShop\backend\node_modules\busboy\lib\types\multipart.js:394:37)
+    at feed (D:\MyWorkplace\Projects\Projects_ReactJS\AchrafShop\backend\node_modules\streamsearch\lib\sbmh.js:219:14)
+    at SBMH.push (D:\MyWorkplace\Projects\Projects_ReactJS\AchrafShop\backend\node_modules\streamsearch\lib\sbmh.js:104:16)
+    at Multipart._write (D:\MyWorkplace\Projects\Projects_ReactJS\AchrafShop\backend\node_modules\busboy\lib\types\multipart.js:567:19)
+
+2026-05-02T17:44:20.757Z - Not authorized as admin
+Error: Not authorized as admin
+    at admin (D:\MyWorkplace\Projects\Projects_ReactJS\AchrafShop\backend\middleware\auth.js:45:11)
+    at Layer.handle [as handle_request] (D:\MyWorkplace\Projects\Projects_ReactJS\AchrafShop\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\MyWorkplace\Projects\Projects_ReactJS\AchrafShop\backend\node_modules\express\lib\router\route.js:149:13)
+    at D:\MyWorkplace\Projects\Projects_ReactJS\AchrafShop\backend\middleware\auth.js:30:5
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+
+2026-05-02T17:44:20.770Z - Not authorized as admin
+Error: Not authorized as admin
+    at admin (D:\MyWorkplace\Projects\Projects_ReactJS\AchrafShop\backend\middleware\auth.js:45:11)
+    at Layer.handle [as handle_request] (D:\MyWorkplace\Projects\Projects_ReactJS\AchrafShop\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\MyWorkplace\Projects\Projects_ReactJS\AchrafShop\backend\node_modules\express\lib\router\route.js:149:13)
+    at D:\MyWorkplace\Projects\Projects_ReactJS\AchrafShop\backend\middleware\auth.js:30:5
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+
+2026-05-02T17:44:24.360Z - Not authorized as admin
+Error: Not authorized as admin
+    at admin (D:\MyWorkplace\Projects\Projects_ReactJS\AchrafShop\backend\middleware\auth.js:45:11)
+    at Layer.handle [as handle_request] (D:\MyWorkplace\Projects\Projects_ReactJS\AchrafShop\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\MyWorkplace\Projects\Projects_ReactJS\AchrafShop\backend\node_modules\express\lib\router\index.js:328:13)
+    at D:\MyWorkplace\Projects\Projects_ReactJS\AchrafShop\backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyWorkplace\Projects\Projects_ReactJS\AchrafShop\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyWorkplace\Projects\Projects_ReactJS\AchrafShop\backend\node_modules\express\lib\router\index.js:280:10)
+    at D:\MyWorkplace\Projects\Projects_ReactJS\AchrafShop\backend\middleware\auth.js:30:5
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+
+2026-05-02T17:44:24.375Z - Not authorized as admin
+Error: Not authorized as admin
+    at admin (D:\MyWorkplace\Projects\Projects_ReactJS\AchrafShop\backend\middleware\auth.js:45:11)
+    at Layer.handle [as handle_request] (D:\MyWorkplace\Projects\Projects_ReactJS\AchrafShop\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\MyWorkplace\Projects\Projects_ReactJS\AchrafShop\backend\node_modules\express\lib\router\index.js:328:13)
+    at D:\MyWorkplace\Projects\Projects_ReactJS\AchrafShop\backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\MyWorkplace\Projects\Projects_ReactJS\AchrafShop\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MyWorkplace\Projects\Projects_ReactJS\AchrafShop\backend\node_modules\express\lib\router\index.js:280:10)
+    at D:\MyWorkplace\Projects\Projects_ReactJS\AchrafShop\backend\middleware\auth.js:30:5
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+
